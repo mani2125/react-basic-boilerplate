@@ -5,7 +5,7 @@ function Header() {
   return (
     <header className='header-main'>
         <ShippingIcon />
-      <span className='header-main__title'>test</span>
+      <span className='header-main__title'>test1</span>
     </header>
   );
 }
